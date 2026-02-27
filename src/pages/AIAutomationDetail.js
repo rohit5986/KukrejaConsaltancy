@@ -202,8 +202,8 @@ function AIAutomationDetail() {
       <div className="container mx-auto px-6 relative z-10">
         {/* Header */}
         <div className="text-center mb-12">
-          <Link to="/services" className="inline-flex items-center text-navy-700 hover:text-navy-800 transition-colors mb-6">
-            <span className="mr-2">←</span> Back to Services
+          <Link to="/" className="inline-flex items-center text-navy-700 hover:text-navy-800 transition-colors mb-6">
+            <span className="mr-2">←</span> Back to Home
           </Link>
           <h2 className="text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-navy-800 via-navy-700 to-blue-600 bg-clip-text text-transparent">AI & Automation Solutions</h2>
           <div className="h-1 w-24 bg-gradient-to-r from-transparent via-navy-700 to-transparent mx-auto mb-6"></div>

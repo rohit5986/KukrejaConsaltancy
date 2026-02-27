@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function Home() {
   // WhatsApp number - update with your actual number
-  const whatsappNumber = '919876543210'; // Format: country code + number without + or spaces
+  const whatsappNumber = '919594795393'; // Format: country code + number without + or spaces
   const whatsappMessage = 'Hello! I would like to inquire about your services.';
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
 

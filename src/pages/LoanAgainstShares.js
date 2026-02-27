@@ -8,8 +8,8 @@ function LoanAgainstShares() {
       
       <div className="container mx-auto px-6 relative z-10">
         {/* Back Button */}
-        <Link to="/services" className="inline-flex items-center text-slate-700 hover:text-purple-600 transition-colors mb-8">
-          <span className="mr-2">←</span> Back to Services
+        <Link to="/loans-detail" className="inline-flex items-center text-slate-700 hover:text-purple-600 transition-colors mb-8">
+          <span className="mr-2">←</span> Back to Loans
         </Link>
 
         {/* Header */}
